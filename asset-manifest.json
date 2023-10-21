@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.87bf07eb.css",
-    "main.js": "/static/js/main.6ca986a1.js",
+    "main.js": "/static/js/main.34cacad3.js",
     "static/media/education.svg": "/static/media/education.9c2a763261c1b55612664d0af8554d2c.svg",
     "static/media/hardware_website.png": "/static/media/hardware_website.9684f3036c309b157ae4.png",
     "static/media/bookopus.png": "/static/media/bookopus.e62dd842c327c3eebfb1.png",
@@ -27,10 +27,10 @@
     "static/media/swiggle.svg": "/static/media/swiggle.903815bcdeb379488eaa8d72e3359834.svg",
     "index.html": "/index.html",
     "main.87bf07eb.css.map": "/static/css/main.87bf07eb.css.map",
-    "main.6ca986a1.js.map": "/static/js/main.6ca986a1.js.map"
+    "main.34cacad3.js.map": "/static/js/main.34cacad3.js.map"
   },
   "entrypoints": [
     "static/css/main.87bf07eb.css",
-    "static/js/main.6ca986a1.js"
+    "static/js/main.34cacad3.js"
   ]
 }
